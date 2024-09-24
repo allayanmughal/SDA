@@ -1,7 +1,9 @@
 <div align="center">
+  
   # SDA
+
 </div>
-  # AALYAN MUGHAL
+# Aalyan Mughal
   
 # Description
 Polymorphism is a core concept in object-oriented programming (OOP) that allows objects to be treated as instances of their parent class or interface. It enables methods to perform different functions based on the object that it is acting upon, promoting flexibility and reusability in code.
