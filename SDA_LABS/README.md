@@ -15,11 +15,6 @@ This project implements the Observer design pattern along with an Event Manageme
 - Java Development Kit (JDK) 8 or higher
 - An IDE or text editor of your choice
 
-### How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
 ## OUTPUT
 Sending SMS to 03344553311: Hello there! I am M.Aalyan Mughal
 Email to admin@example.com: Someone has performed save operation with the following file: test.txt
