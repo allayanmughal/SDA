@@ -12,13 +12,7 @@ This repository contains a **Java-based Admission System** for **COMSATS Univers
 - **Notifications**: Sends appropriate notifications to applicants at each stage of the process.
 - **Merit List**: Displays the names of applicants who pass all stages of the admission process.
 
----
 
-## 📋 Class Diagram
-
-The class diagram for this project is included in the repository as `class_diagram.puml`. It can be rendered using [PlantUML](https://plantuml.com/).
-
----
 
 ## 💻 Technologies Used
 
